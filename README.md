@@ -1,2 +1,2 @@
 # cbn
-This is the experimental implementation of our SPDNetCBN on the HDM05 dataset.
+This is the source code of our proposed SPDNetCBN algorithm, choosing the HDM05 dataset as a demo.
