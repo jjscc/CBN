@@ -19,5 +19,5 @@ python Hdm05.py
 ## Requirements
  - Python == 3.10.13
  - Pytorch == 2.2.1
- - Pytorch == 1.26.4
+ - Numpy == 1.26.4
  - [Geoopt](https://github.com/geoopt/geoopt) == 0.5.0
